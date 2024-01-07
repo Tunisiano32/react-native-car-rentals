@@ -1,6 +1,9 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# App Demo
 
 # Getting Started
+
+https://github.com/Tunisiano32/react-native-car-rentals/assets/1696266/f1f51ec0-e239-4098-a31e-ca27580ab5ac
+
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
